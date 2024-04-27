@@ -1,7 +1,5 @@
 ## Olá, meu nome é {tatobrito}!
 
-<p align="left">Sou um novato no mundo do desenvolvimento de software, super animado para aprender e resolver problemas complexos com essa ferramenta incrível. Estou focado em equilibrar meu aprendizado técnico com habilidades de gestão de projetos e sempre pronto para colaborar com equipes, estudar muito e melhorar constantemente minhas habilidades, tudo isso dentro do contexto descontraído e dinâmico do desenvolvimento ágil.</p>&nbsp;
-
 ### ⚙️ GitHub Analytics
 
 <table>
@@ -32,7 +30,7 @@
 </table>
 
 --- 
-
+<!--div>
 ### 🏆 GitHub Profile Trophy
 
 <p align="center">
@@ -49,7 +47,7 @@
 
 ---
 
-<div align="center">
+<!--div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 
@@ -58,9 +56,9 @@
     src="https://profile-counter.glitch.me/tatobrito/count.svg"
     alt="Número de visitantes no perfil"
   />
-</p>
+</p-->
 
-## My Skills
+###  🚀 My Skills
 
 #### Main Stack:
 
@@ -73,6 +71,7 @@
 
 #### Studying in this moment:
 
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
@@ -87,20 +86,31 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
-&nbsp;
-&nbsp;
+#### Utilities:
+
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+## Framework:
+
+![Rails](https://img.shields.io/badge/-Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+
+## CMS:
+
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Webflow](https://img.shields.io/badge/-Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+![Bubble](https://img.shields.io/badge/-Bubble-0077B5?style=for-the-badge&logo=bubble&logoColor=white)
+
+#### DevOps:
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
 
 ## Contacts:
-
 <div> 
-<a href="https://www.instagram.com/rafa.alexandrino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/poaxatato" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href = "mailto:contato.rafaelalexandrino@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rafael-ladeia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://medium.com/@rafaelalexandrino" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
- 
-
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<a href = "mailto:contato.tatobrito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/thais-brito-70a405163" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
