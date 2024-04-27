@@ -82,12 +82,12 @@
 
 #### DevOps:
 
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 #### Utilities:
 
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 #### Workstation Tools:
 
