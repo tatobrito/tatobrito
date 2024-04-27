@@ -1,8 +1,8 @@
 ## olá, me chamo {thaisbrito}!
-
+<!--table>
 ### ⚙️ GitHub Analytics
 
-<!--table>
+
   <tr>
     <td>
       <img
