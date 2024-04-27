@@ -1,8 +1,8 @@
-## Olá, meu nome é {tatobrito}!
+## olá, me chamo {thaisbrito}!
 
 ### ⚙️ GitHub Analytics
 
-<table>
+<!--table>
   <tr>
     <td>
       <img
@@ -80,15 +80,21 @@
 
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
+#### DevOps:
+
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+#### Utilities:
+
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-
-#### Utilities:
-
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![MacOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ## Framework:
 
@@ -99,14 +105,6 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Webflow](https://img.shields.io/badge/-Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 ![Bubble](https://img.shields.io/badge/-Bubble-0077B5?style=for-the-badge&logo=bubble&logoColor=white)
-
-#### DevOps:
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
 
 ## Contacts:
 <div> 
