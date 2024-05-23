@@ -98,14 +98,15 @@
 <br/>
 <hr/>
 <br/>
-!-->
+
 <p align="center">
   <a href="https://github.com/tatobrito">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tato&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
+!-->
 
-<p align="center">
+<!--p align="center">
   <a href="https://github.com/tatobrito">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tatobrito&theme=radical" alt="Tato's GitHub Contribution"/>
   </a>
@@ -115,9 +116,23 @@
     <a href="https://github.com/tatobrito"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=tatobrito&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/tatobrito"><img alt="Tato's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
-</a>
+</a-->
 
+<div align="center">
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=tatobrito&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000"
+    alt="centrumek"
+  />
+ 
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=tatobrito&theme=dark&hide_border=true&background=FFFFFF00"
+    alt="centrumek"
+  />
+  <br/>
+  <br/>
+  
+</div>
 
-![Tato's Graph](https://github-readme-activity-graph.vercel.app/graph?username=tatobrito&custom_title=Tato's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
