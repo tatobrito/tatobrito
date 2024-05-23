@@ -118,6 +118,19 @@
   <br/>
 </a-->
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tatobrito&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=transparent" /></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=tatobrito&theme=transparent&hide_border=true" /></a>
+</p>
+
+<div align="center">
+  
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tatobrito&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=tatobrito&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+
+
+<!--
 <div align="center">
   
   <img 
@@ -133,6 +146,6 @@
   <br/>
   
 </div>
-
+--!>
 
 
