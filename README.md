@@ -121,8 +121,8 @@
 </a-->
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tatobrito&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=transparent" /></a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=tatobrito&theme=transparent&hide_border=true" /></a>
+  <a href="https://github.com/tatobrito/github-readme-stats"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tatobrito&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=transparent" /></a>
+  <a href="https://github.com/tatobrito/github-readme-streak-stats"><img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=tatobrito&theme=transparent&hide_border=true" /></a>
 </p>
 
 <div align="center">
