@@ -61,6 +61,8 @@
 <br/>
 <br/>
 -->
+<p align="center">
+  
 # Main Stack:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -82,7 +84,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![MacOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-
+</p>
 <br/>
 <!--
 ## Top Open Source -
