@@ -32,7 +32,7 @@
   <samp>
     <!--a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a!-->
     <br>
-    「 a confident and curious developer, always ready for new challenges. Constantly learning and improving through personal projects, online courses, and collaborations with experienced colleagues.> 」
+    「 a confident and curious developer, always ready for new challenges. Constantly learning and improving through personal projects, online courses, and collaborations with experienced colleagues. 」
     <br>
     <br>
   </samp>
