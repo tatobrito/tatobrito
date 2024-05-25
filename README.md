@@ -133,7 +133,7 @@
 <div align="center">
   
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tatobrito&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-readme-activity-graph.vercel.app/graph?username=tatobrito&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31coj6hf7fkp7rpvdeoo77c2dfjq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
@@ -147,6 +147,8 @@
     src="https://github-readme-stats.vercel.app/api?username=tatobrito&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000"
     alt="centrumek"
   />
+  
+ [![](https://github-readme-activity-graph.vercel.app/graph?username=tatobrito&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
  
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=tatobrito&theme=dark&hide_border=true&background=FFFFFF00"
