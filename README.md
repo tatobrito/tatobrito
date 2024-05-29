@@ -126,9 +126,20 @@
 </a-->
 
 <p align="center">
+  <a href="https://github.com/tatobrito/github-readme-stats">
+    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tatobrito&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=dark&title_color=2962FF&icon_color=2962FF&text_color=FFFFFF&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/tatobrito/github-readme-streak-stats">
+    <img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=tatobrito&theme=dark&hide_border=true&ring=2962FF&fire=2962FF&currStreakLabel=2962FF&background=0D1117" />
+  </a>
+</p>
+
+
+
+<!--p align="center">
   <a href="https://github.com/tatobrito/github-readme-stats"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tatobrito&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/tatobrito/github-readme-streak-stats"><img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=tatobrito&theme=transparent&hide_border=true" /></a>
-</p>
+</p-->
 
 <div align="center">
   
@@ -138,6 +149,10 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31coj6hf7fkp7rpvdeoo77c2dfjq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
+[![](https://visitcount.itsvg.in/api?id=tatobrito&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!--
@@ -159,5 +174,4 @@
   
 </div>
 --!>
-
 
