@@ -146,8 +146,6 @@
   
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tatobrito&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tatobrito&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 
 [![](https://visitcount.itsvg.in/api?id=tatobrito&icon=0&color=0)](https://visitcount.itsvg.in)
 
