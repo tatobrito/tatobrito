@@ -147,6 +147,14 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tatobrito&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
+<div align="center">
+  <!--img src="https://github-contributor-stats.vercel.app/api?username=tatobrito&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" style="border: none;" /-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatobrito&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="border: none;" />
+</div>
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31coj6hf7fkp7rpvdeoo77c2dfjq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 [![](https://visitcount.itsvg.in/api?id=tatobrito&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
