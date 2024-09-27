@@ -32,7 +32,7 @@
   <samp>
     <!--a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a!-->
     <br>
-    「 a confident and curious developer, always ready for new challenges. Constantly learning and improving through personal projects, online courses, and collaborations with experienced colleagues. 」
+    「 A confident and curious developer, always ready for new challenges. Constantly learning and improving through personal projects, online courses, and collaborations with experienced colleagues. Additionally, I enjoy practicing sports, especially cycling, which helps me maintain a balance between mind and body while tackling new challenges in the world of technology.」
     <br>
     <br>
   </samp>
@@ -106,7 +106,7 @@
 <hr/>
 <br/>
 
-<p align="center">
+<!--p align="center">
   <a href="https://github.com/tatobrito">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tato&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
@@ -123,7 +123,7 @@
     <a href="https://github.com/tatobrito"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=tatobrito&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/tatobrito"><img alt="Tato's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
-</a-->
+</a>
 
 <p align="center">
   <a href="https://github.com/tatobrito/github-readme-stats">
@@ -132,8 +132,8 @@
   <a href="https://github.com/tatobrito/github-readme-streak-stats">
     <img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=tatobrito&theme=dark&hide_border=true&ring=2962FF&fire=2962FF&currStreakLabel=2962FF&background=0D1117" />
   </a>
-</p>
-
+</p->
+!-->
 
 
 
