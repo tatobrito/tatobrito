@@ -32,7 +32,7 @@
   <samp>
     <!--a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a!-->
     <br>
-    「 A confident and curious developer, always ready for new challenges. Constantly learning and improving through personal projects, online courses, and collaborations with experienced colleagues. Additionally, I enjoy practicing sports, especially cycling, which helps me maintain a balance between mind and body while tackling new challenges in the world of technology.」
+    「Constantly learning and improving through personal projects, online courses, and collaborations with experienced colleagues. Additionally, I enjoy practicing sports, especially cycling, which helps me maintain a balance between mind and body while tackling new challenges in the world of technology 」
     <br>
     <br>
   </samp>
