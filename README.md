@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <samp>
-    <!--br>
+    <br>
     「Constantly learning and improving through personal projects, online courses, and collaborations with experienced colleagues. Additionally, I enjoy practicing sports, especially cycling, which helps me maintain a balance between mind and body while tackling new challenges in the world of technology」
     <br>
     <br>
