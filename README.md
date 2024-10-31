@@ -50,10 +50,6 @@
 </p>
 <br/>
 
-<p align="left">
-  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
 <div align="center">
   
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tatobrito&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
