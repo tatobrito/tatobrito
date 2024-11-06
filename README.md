@@ -1,17 +1,4 @@
-<img src="https://raw.githubusercontent.com/tatobrito/tatobrito/output/snake.svg" alt="Snake animation" />
 
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=tatobrito&locale=pt-br&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=tatobrito&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=true&order=1" height="130" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tatobrito&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=true&order=2" height="130" alt="languages graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tatobrito&radius=16&theme=elegant&area=true&order=5" height="280" alt="activity-graph graph"  />
-</div>
-
-###
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am Tato
