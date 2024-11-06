@@ -1,5 +1,4 @@
 
-![snake gif](https://github.com/tatobrito/tatobrito/blob/output/github-contribution-grid-snake.gif)
 
 
 <!-- Intro  -->
@@ -52,6 +51,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tatobrito&radius=16&theme=elegant&area=true&order=5" height="240" alt="activity-graph graph" />
 
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31coj6hf7fkp7rpvdeoo77c2dfjq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+![snake gif](https://github.com/tatobrito/tatobrito/blob/output/github-contribution-grid-snake.svg)
 
   [![](https://visitcount.itsvg.in/api?id=tatobrito&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
