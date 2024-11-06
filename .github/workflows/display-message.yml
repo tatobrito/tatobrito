@@ -1,0 +1,18 @@
+name: Display Message
+
+# Dispara a ação ao realizar um push para a branch main
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  display_message:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Exibir Mensagem Personalizada
+        run: |
+          echo "Hey There!, I am Tato"
+          echo ""
+          echo "「Constantly learning and improving through personal projects, online courses, and collaborations with experienced colleagues. Additionally, I enjoy practicing sports, especially cycling, which helps me maintain a balance between mind and body while tackling new challenges in the world of technology」"
