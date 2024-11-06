@@ -1,3 +1,7 @@
+
+![snake gif](https://github.com/tatobrito/tatobrito/blob/output/github-contribution-grid-snake.gif)
+
+
 <!-- Intro  -->
 <div align="center">
   <h3>
