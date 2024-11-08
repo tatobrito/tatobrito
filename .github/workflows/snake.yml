@@ -1,0 +1,40 @@
+name: Snake Game Generator
+
+on:
+  # Executa a ação quando há um push para o branch principal
+  push:
+    branches:
+      - main
+  # Executa a cada 2 horas
+  schedule:
+    - cron: "0 */2 * * *"
+
+jobs:
+  generate_snake_game:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Baixa o repositório automaticamente
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Gera o jogo Snake com base nas contribuições
+      - name: Snake game generator from Github contributions
+        uses: Sutil/snk@v01.00.02
+        with:
+          snake_color: "#00FF00"  # Altere para a cor desejada
+
+      # Adiciona a animação ao README.md
+      - name: Update README with Snake game animation
+        run: |
+          # Adiciona a animação no README
+          echo "![Snake animation](./.github/workflows/github-contribution-grid-snake-dark.svg)" >> README.md
+          
+          # Configura o git para o commit
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Commit e push das mudanças
+          git add README.md
+          git commit -m "Atualiza README com a animação do jogo Snake"
+          git push
