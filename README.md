@@ -57,3 +57,4 @@
 
   [![](https://visitcount.itsvg.in/api?id=tatobrito&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
+![Snake animation](./.github/workflows/github-contribution-grid-snake-dark.svg)
