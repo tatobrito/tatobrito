@@ -3,14 +3,6 @@
     <samp>&gt; Hey There!, I am Tato</samp>
   </h3>
 
-  <p> 
-    <samp>
-      <br>
-      「Constantly learning and improving through personal projects, online courses, and collaborations with experienced colleagues. Additionally, I enjoy practicing sports, especially cycling, which helps me maintain a balance between mind and body while tackling new challenges in the world of technology」
-      <br><br>
-    </samp>
-  </p>
-
   <p>
     <a href="mailto:contato.tatobrito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/thais-brito-70a405163" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
